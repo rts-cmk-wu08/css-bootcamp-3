@@ -3,13 +3,15 @@ I denne opgave skal du arbejde med at modularisere din CSS.
 
 Du skal bruge materialet fra CSS Bootcamp #2.
 
+I oplægget omkring modularisering af css blev der talt om forskellige måder at opdele css på. 
+
 ## Opgave
-- Del din CSS op i følgende overordnede moduler:
-	- Atoms
-	- Molecules
-	- Organisms
-	- Variables
-	- Critical CSS
+- Del din CSS op i overensstemmelse med enten Atomic Design principperne eller SMACSS principperne:
+	- Atomic desing:
+		(Atoms, Molecules, Organisms, Variables, Critical CSS)
+		
+	- SMACSS
+		(base, layout, modules)
 - Implementer denne nye inddeling på din hjemmeside.
 
 ## Aflevering
